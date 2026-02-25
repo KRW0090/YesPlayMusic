@@ -7,6 +7,7 @@ import en from './lang/en.js';
 import zhCN from './lang/zh-CN.js';
 import zhTW from './lang/zh-TW.js';
 import tr from './lang/tr.js';
+import ja from './lang/ja.js';
 
 Vue.use(VueClipboard);
 Vue.use(VueI18n);
@@ -18,6 +19,7 @@ const i18n = new VueI18n({
     'zh-CN': zhCN,
     'zh-TW': zhTW,
     tr,
+    ja,
   },
   silentTranslationWarn: true,
 });
