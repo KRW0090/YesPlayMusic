@@ -77,7 +77,7 @@ export default {
     readonly: '公開データのみのアクセス',
     usernameLogin: 'ユーザー名でログイン',
     searchHolder: 'ユーザー名',
-    enterTip: "Enterキーで検索",
+    enterTip: 'Enterキーで検索',
     choose: 'アカウントを選択',
     confirm: '確認',
     countryCode: '国コード',
