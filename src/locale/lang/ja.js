@@ -21,9 +21,9 @@ export default {
     charts: 'チャート',
   },
   library: {
-    sLibrary: "のライブラリ",
+    sLibrary: "'のライブラリ",
     likedSongs: '高く評価した曲',
-    sLikedSongs: "が高く評価した曲",
+    sLikedSongs: "'が高く評価した曲",
     playlists: '再生リスト',
     albums: 'アルバム',
     artists: 'アーティスト',
